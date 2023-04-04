@@ -16,4 +16,4 @@ const favColor = prompt ('inserisci il tuo colore preferito');
 
 const elespan3 = document.getElementById('favourite-color');
 
-elespan3.innerHTML = favColor;
+elespan3.innerHTML = favColor + "23";
